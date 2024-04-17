@@ -48,7 +48,7 @@ namespace PMTHITN
                 JsonSerializerOptions options = new JsonSerializerOptions
                 {
                     WriteIndented = true,
-                    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.Create(System.Text.Unicode.UnicodeRanges.All) // Sử dụng mã hóa UTF-8
+                    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.Create(System.Text.Unicode.UnicodeRanges.All) 
                 };
                 string jsonData = JsonSerializer.Serialize(data, options);
 

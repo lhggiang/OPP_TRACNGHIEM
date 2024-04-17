@@ -12,3 +12,5 @@ namespace PMTHITN.Models
         public abstract List<string> getDanhSachDeThi(string MaLop);
     }
 }
+
+

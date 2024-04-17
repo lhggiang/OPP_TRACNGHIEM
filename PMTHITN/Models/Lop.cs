@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace PMTHITN.Models
 {
     [Serializable]
-    class Lop : LopBase, ISerializable
+    public class Lop : LopBase, ISerializable
     {
         private string maLop;
         private string tenLop;

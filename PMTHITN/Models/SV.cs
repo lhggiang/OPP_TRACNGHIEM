@@ -9,9 +9,8 @@ using System.Threading.Tasks;
 namespace PMTHITN.Models
 {
     [Serializable]
-    class SV : User, ISerializable
+    public class SV : User, ISerializable
     {
-
         private List<string> malop;
 
         public List<string> MaLop

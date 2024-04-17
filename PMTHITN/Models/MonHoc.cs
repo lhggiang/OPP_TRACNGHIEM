@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 namespace PMTHITN.Models
 {
     [Serializable]
-    class MonHoc : ISerializable
+    public class MonHoc : ISerializable
     {
         private string maMH;
         private string tenMH;
