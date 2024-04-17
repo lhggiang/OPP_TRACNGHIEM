@@ -1,0 +1,42 @@
+﻿[
+	{
+		"Ma":"GV001",
+		"Ten":"Trần Minh Anh",
+		"Email":"tranminhanh@gmail.com",
+		"MatKhau":"123456",
+		"Khoa":{
+			"MaKhoa":"MaKhoa01",
+			"TenKhoa":"Lý Luận Chính Trị"
+		}
+	},
+	{
+		"Ma":"GV002",
+		"Ten":"Nguyễn Hoàng Long",
+		"Email":"nguyenhoanglong@gmail.com",
+		"MatKhau":"123456",
+		"Khoa":{
+			"MaKhoa":"MaKhoa02",
+			"TenKhoa":"Tin Học Đại Cương"
+		}
+	},	
+	{
+		"Ma":"GV003",
+		"Ten":"Nguyễn Hà My",
+		"Email":"nguyenhamy@gmail.com",
+		"MatKhau":"123456",
+		"Khoa":{
+			"MaKhoa":"MaKhoa03",
+			"TenKhoa":"Ngoại Ngữ"
+		}
+	},
+	{
+		"Ma":"GV004",
+		"Ten":"Lưu Thị Đào",
+		"Email":"luuthidao@gmail.com",
+		"MatKhau":"123456",
+		"Khoa":{
+			"MaKhoa":"MaKhoa03",
+			"TenKhoa":"Ngoại Ngữ"
+		}
+	}
+]

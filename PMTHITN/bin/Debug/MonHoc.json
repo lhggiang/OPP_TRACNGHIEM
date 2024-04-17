@@ -1,0 +1,620 @@
+[
+  {
+    "MaMH": "MH002",
+    "TenMH": "Tin Học Đại Cương",
+    "NganHangCauHoi": [
+      {
+        "MaCH": "CH001",
+        "NoiDung": "Trong các thiết bị dưới đây, thiết bị nào không phải là thiết bị mạng?\r\n\r\nA. Modem\r\n\r\nB. Vỉ mạng\r\n\r\nC. Webcam\r\n\r\nD. Hub",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH002",
+        "NoiDung": "Mạng không dây được kết nối bằng\r\n\r\nA. Bluetooth\r\n\r\nB. Sóng điện từ, bức xạ hồng ngoại…\r\n\r\nC. Cáp điện\r\n\r\nD. Cáp quang",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH003",
+        "NoiDung": "Một máy tính ở Hà Nội kết nối với một máy tính ở thành phố Hồ Chí Minh để có thể sao chép tệp và gửi thư điện tử.Theo em, được xếp vào những loại mạng nào?\r\n\r\nA. Mạng có dây\r\n\r\nB. Mạng WAN\r\n\r\nC. Mạng LAN\r\n\r\nD. Mạng không dây",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH004",
+        "NoiDung": "Vai trò của máy chủ là gì?\r\n\r\nA. Quản lí các máy trong mạng\r\n\r\nB. Điều hành các máy trong mạng\r\n\r\nC. Phân bố các tài nguyên trong mạng\r\n\r\nD. Tất cả các câu đều đúng",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH005",
+        "NoiDung": "Mạng máy tính là:\r\n\r\nA. Tập hợp các máy tính nối với nhau bằng các thiết bị mạng\r\n\r\nB. Tập hợp các máy tính\r\n\r\nC. Mạng Internet\r\n\r\nD. Mạng LAN",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH006",
+        "NoiDung": "Mạng máy tính được phân ra làm mấy loại?\r\n\r\nA. Mạng có dây và mạng không dây, mạng cục bộ và mạng diện rộng\r\n\r\nB. Mạng có dây và mạng không dây\r\n\r\nC. Mạng kiểu hình sao và mạng kiểu đường thẳng\r\n\r\nD. Mạng LAN và mạng WAN",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH007",
+        "NoiDung": "Hãy nêu các thành phần cơ bản của mạng máy tính:\r\n\r\nA. Thiết bị kết nối mạng, môi trường truyền dẫn, thiết bị đầu cuối và giao thức truyền thông\r\n\r\nB. Máy tính và internet\r\n\r\nC. Máy tính, dây cáp mạng và máy in\r\n\r\nD. Máy tính, dây dẫn, modem và dây điện thoại",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH008",
+        "NoiDung": "Hơn 100 máy tính ở ba tầng liền nhau của một toàn nhà cao tầng, được nối với nhau bằng dây cáp mạng để chia sẻ dữ liệu và máy in. Theo em, được xếp vào những loại mạng nào?\r\n\r\nA. Mạng có dây\r\n\r\nB. Mạng không dây\r\n\r\nC. Mạng WAN và mạng LAN\r\n\r\nD. Mạng LAN",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH009",
+        "NoiDung": "Nêu các kiểu mạng?\r\n\r\nA. Mạng kiểu đường thẳng, hình sao và kiểu vòng\r\n\r\nB. Mạng LAN, WAN, kiểu đường thẳng và kiểu vòng\r\n\r\nC. Mạng kiểu đường thẳng\r\n\r\nD. Mạng kiểu đường thẳng và kiểu vòng",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH010",
+        "NoiDung": "Khi kết nối nhiều máy tính thành mạng máy tính, chúng ta được những lợi ích gì dưới đây:\r\n\r\nA. Có thể dùng chung các thiết bị phần cứng\r\n\r\nB. Có thể dùng chung các phần mềm và dữ liệu\r\n\r\nC. Có thể trao đổi thông tin giữa các máy tính qua thư điện tử\r\n\r\nD. Tất cả các lợi ích trên",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH011",
+        "NoiDung": "Ưu điểm của dịch vụ thư điện tử là:\r\n\r\nA. Có thể gửi thư kèm tệp tin\r\n\r\nB. Một người có thể gửi thư đồng thời cho nhiều người\r\n\r\nC. Chi phí thấp và thời gian chuyển gần như tức thì\r\n\r\nD. Các đáp án đều đúng",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH012",
+        "NoiDung": "Câu nào trong các câu sau là phát biểu chính xác nhất về mạng Internet ?\r\n\r\nA. Là mạng của các mạng, có quy mô toàn cầu\r\n\r\nB. Là môi trường truyền thông toàn cầu dựa trên kỹ thuật máy tính\r\n\r\nC. Là mạng sử dụng chung cho mọi người, có rất nhiều dữ liệu phong phú\r\n\r\nD. Là mạng có quy mô toàn cầu hoạt động dựa trên giao thức TCP/IP",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH013",
+        "NoiDung": "WWW là viết tắt của cụm từ nào sau đây ?\r\n\r\nA. World Win Web\r\n\r\nB. World Wide Web\r\n\r\nC. Windows Wide Web\r\n\r\nD. World Wired Web",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH014",
+        "NoiDung": "Người dùng có thể tiếp cận và chia sẻ thông tin một cách nhanh chóng, tiện lợi, không phụ thuộc vào vị trí địa lý khi người dùng kết nối vào đâu?\r\n\r\nA. Laptop\r\n\r\nB. Máy tính\r\n\r\nC. Mạng máy tính\r\n\r\nD. Internet",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH015",
+        "NoiDung": "Máy tìm kiếm là:\r\n\r\nA. Là công cụ tìm kiếm các thông tin trong máy tính\r\n\r\nB. Là một loại máy được nối thêm vào máy tính để tìm kiếm thông tin trên Internet\r\n\r\nC. Là một phần mềm cái đặt vào máy tính dàng để tìm kiếm thông tin\r\n\r\nD. Là một công cụ được cung cấp trên Internet giúp tìm kiếm thông tin trên cơ sở các từ khóa liên quan đến vấn đề cần tìm.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH016",
+        "NoiDung": "Internet là\r\n\r\nA. mạng kết nối các máy tính ở quy mô một nước\r\n\r\nB. mạng kết nối hàng triệu máy tính ở quy mô một huyện\r\n\r\nC. mạng kết nối hàng triệu máy tính ở quy mô một tỉnh\r\n\r\nD. mạng kết nối hàng triệu máy tính ở quy mô toàn cầu",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH017",
+        "NoiDung": "Thư điện tử là\r\n\r\n: A. Dịch vụ chuyển thư dưới dạng số trên máy tính thông qua các hộp thư điện tử\r\n\r\nB. Dịch vụ chuyển thư dưới dạng số trên mạng máy tính\r\n\r\nC. Các hộp thư điện tử\r\n\r\nD. Dịch vụ chuyển thư dưới dạng số trên mạng máy tính thông qua các hộp thư điện tử",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH018",
+        "NoiDung": "Làm thế nào để kết nối Internet?\r\n\r\nA. Người dùng đăng kí với một nhà cung cấp dịch vụ Internet để được hỗ trợ cài đặt Internet\r\n\r\nB. Người dùng đăng kí với một nhà cung cấp dịch vụ Internet để được cấp quyền truy cập Internet\r\n\r\nD. Người dùng đăng kí với một nhà cung cấp dịch vụ Internet (ISP) để được hỗ trợ cài đặt và cấp quyền truy cập Internet\r\n\r\nC. Wi-Fi",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH019",
+        "NoiDung": "Một vài ứng dụng trên Internet:\r\n\r\nA. Hội thảo trực tuyến\r\n\r\nB. Đào tạo qua mạng\r\n\r\nC. Thương mại điện tử\r\n\r\nD. Tất cả các đáp án trên.",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH020",
+        "NoiDung": "Khi sử dụng lại các thông tin trên mạng cần lưu ý đến vấn đề là:\r\n\r\nA. Các từ khóa liên quan đến thông tin cần tìm\r\n\r\nB. Các từ khóa liên quan đến trang web\r\n\r\nC. Địa chỉ của trang web\r\n\r\nD. Bản quyền",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH021",
+        "NoiDung": "Dữ liệu nào sau đây có thể được tích hợp trong siêu văn bản?\r\n\r\nA. Văn bản, hình ảnh;\r\n\r\nB. Siêu liên kết;\r\n\r\nC. Âm thanh, phim Video;\r\n\r\nD. Tất cảc đều đúng.",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH022",
+        "NoiDung": "“www.edu.net.vn “, “vn” trên địa chỉ trang web có nghĩa là:\r\n\r\nA. Một kí hiệu nào đó\r\n\r\nB. Ký hiệu tên nước Việt Nam\r\n\r\nC. Chữ viết tắt tiếng anh\r\n\r\nD. Khác",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH023",
+        "NoiDung": "Trang web hiển thị đầu tiên khi truy cập vào website là:\r\n\r\nA.Một trang liên kết\r\n\r\nB. Một website\r\n\r\nC. Trang chủ\r\n\r\nD. Trang web google.com",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH024",
+        "NoiDung": "Máy tìm kiếm dùng để làm gì?\r\n\r\nA. Đọc thư điện thư điện tử\r\n\r\nB. Truy cập vào website\r\n\r\nC. Tìm kiếm thông tin trên mạng\r\n\r\nD. Tất cả đều sai",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH025",
+        "NoiDung": "Website là:\r\n\r\nA. Một hoặc nhiều trang web liên quan tổ chức dưới nhiều địa chỉ truy cập\r\n\r\nB. Gồm nhiều trang web\r\n\r\nC. http://www.edu.net.vn\r\n\r\nD. Một hoặc nhiều trang web liên quan tổ chức dưới một địa chỉ truy cập chung",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH026",
+        "NoiDung": "Phần mềm trình duyệt Web dùng để:\r\n\r\nA. Gửi thư điện tử\r\n\r\nB. Truy cập mạng LAN\r\n\r\nC. Truy cập vào trang Web\r\n\r\nD. Tất cả đều sai",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH027",
+        "NoiDung": "Siêu văn bản thường được tạo ra bằng ngôn ngữ nào?\r\n\r\nA. Pascal\r\n\r\nB. THNL\r\n\r\nC. HTML\r\n\r\nD. TMHL",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH028",
+        "NoiDung": "Một số trình duyệt web phổ biến hiện nay:\r\n\r\nA. Internet Explorer (IE), Mozilla Firefox (Firefox), Word, Excel,…\r\n\r\nB. Internet Explorer (IE), Mozilla Firefox (Firefox), Netscape Navigator,…\r\n\r\nC. Internet Explorer (IE), Mozilla Firefox (Firefox),Word,…\r\n\r\nD. Internet Explorer (IE), Mozilla Firefox (Firefox), yahoo, google,…",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH029",
+        "NoiDung": "Phần mềm được sử dụng để truy cập các trang web và khai thác tài nguyên trên internet được gọi là:\r\n\r\nA. Trình lướt web;\r\n\r\nB. Trình duyệt web;\r\n\r\nC. Trình thiết kế web;\r\n\r\nD. Trình soạn thảo web.",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH030",
+        "NoiDung": "Loại file nào có thể phát tán được virus.\r\n\r\nA. .EXE\r\n\r\nB. .COM\r\n\r\nC. .DOC\r\n\r\nD. tất cả các file trên",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH031",
+        "NoiDung": "Yếu tố ảnh hưởng đến sự an toàn thông tin máy tính là:\r\n\r\nA. yếu tố công nghệ - vật lí\r\n\r\nB. yếu tố bảo quản và sử dụng\r\n\r\nC. virus máy tính.\r\n\r\nD. tất cả các đáp án trên",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH032",
+        "NoiDung": "Virus máy tính là:\r\n\r\nA. Một chương trình hay đoạn chương trình\r\n\r\nB. Có khả năng tự nhân bản hay sao chép chính nó\r\n\r\nC. Từ đối tượng bị lây nhiễm này sang đối tượng khác mỗi khi đối tượng bị lây nhiễm (vật mang virus) được kích hoạt\r\n\r\nD. Cả A, B và C",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH033",
+        "NoiDung": "Bảo vệ thông tin máy tính là đảm bảo sao cho các tệp được lưu trong máy tính?\r\n\r\nA. Không bị hỏng và có thể chạy hoặc mở lại được để sử dụng\r\n\r\nB. Không bị xoá ngoài ý muốn\r\n\r\nC. Không bị sao chép mà không được sự đồng ý của người sở hữu thông tin\r\n\r\nD. Cả A, B và C",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH034",
+        "NoiDung": "Vì sao cần bảo vệ thông tin máy tính?\r\n\r\nA. Trong máy tính có những thông tin rất quan trọng\r\n\r\nB. Trong quá trình sử dụng có thể có những rủi ro làm mất thông tin trong máy tính\r\n\r\nC. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn\r\n\r\nD. Cả A, B và C",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH035",
+        "NoiDung": "Để phòng tránh virus, bảo vệ dữ liệu, nguyên tắc chung cơ bản nhất là:\r\n\r\nA. Luôn cảnh giác virus trên chính những đường lây lan của chúng\r\n\r\nB. Luôn cảnh giác và ngăn chặn sao chép tệp\r\n\r\nC. Luôn cảnh giác và ngăn chặn virus trên chính những đường lây lan của chúng\r\n\r\nD. Luôn ngăn chặn virus trên chính những đường lây lan của chúng",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH036",
+        "NoiDung": "Vật mang virus có thể là gì?\r\n\r\nA. Các tệp chương trình\r\n\r\nB. Văn bản\r\n\r\nC. Bộ nhớ và một số thiết bị máy tính (đĩa cứng, đĩa mềm,…..)\r\n\r\nD. Cả A, B và C",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH037",
+        "NoiDung": "Để phòng tránh virus, chúng ta nên tuân thủ thực hiện đúng việc nào sau đây?\r\n\r\nA. Không truy cập Internet\r\n\r\nB. Định kỳ quét và diệt virus bằng các phần mềm diệt virus\r\n\r\nC. Mở những tệp gửi kèm trong thư điện tử gửi từ địa chỉ lạ\r\n\r\nD. Chạy các chương trình tải từ Internet về",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH038",
+        "NoiDung": "Các chương trình nào không phải là chương trình diệt virus?\r\n\r\nA. Kaspersky\r\n\r\nB. Norton AntilVirus\r\n\r\nC. BKAV\r\n\r\nD. Winrar",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH039",
+        "NoiDung": "Tác hại của virus máy tính\r\n\r\nA. Tiêu tốn tài nguyên hệ thống.\r\n\r\nB. Phá hủy hoặc đánh cắp dữ liệu\r\n\r\nC. Gây khó chịu cho người dùng\r\n\r\nD. Cả 3 phương án trên",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH040",
+        "NoiDung": "Để lưu hình ảnh trên trang Web, sau khi nháy nút phải chuột vào hình em sẽ:\r\n\r\nA. Nháy Save Link As       \r\n\r\nB. Nháy Copy Image      \r\n\r\nC. Send Image    \r\n\r\nD. Save Image As",
+        "DapAn": "D"
+      }
+    ]
+  },
+  {
+    "MaMH": "MH003",
+    "TenMH": "Tiếng Anh Căn Bản",
+    "NganHangCauHoi": [
+      {
+        "MaCH": "CH001",
+        "NoiDung": "Please contact the product distributor, not the retail store, if ____ need replacement parts \r\nA. your \r\nB. you \r\nC. yourself \r\nD. yours",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH002",
+        "NoiDung": "AGU Group\u0027s insurance rates have remained steady ____ the last three years \r\nA. at \r\nB. by \r\nC. to \r\nD. for",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH003",
+        "NoiDung": "Sage Bistro\u0027s menu features a ____ variety of seafood items than Almaner Pavilion\u0027s \r\nA. wide \r\nB. widest \r\nC. wider \r\nD. widely",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH004",
+        "NoiDung": "Frequent training enables our technicians to resolve most computer problems ____ \r\nA. swiftly \r\nB. avoidably \r\nC. doubtfully \r\nD. rigidly",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH005",
+        "NoiDung": "Most of the manufacturing sector has reported higher profits as a result of the trade ____ \r\nA. agreement \r\nB. agreeing \r\nC. agreeably \r\nD. agrees",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH006",
+        "NoiDung": "Nam: Did you buy a lot of souvenirs in Hanoi, Nga? Nga: _______________\r\nA. I bought a lot of souvenirs in Hanoi.\r\nB. I did.\r\nC. Yes, I bought.\r\nD. Yes, I did.",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH007",
+        "NoiDung": "Hoa: Where did you go during your summer vacation, Mai? Mai: _____________\r\nA. Yes, I went to Hanoi.\r\nB. No, I didn’t got to Hanoi.\r\nC. I went to Hue.\r\nD. I went there with my mother.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH008",
+        "NoiDung": "What did Ha make for herself last night?\r\nA. She made a nice dress.\r\nB. She makes a nice dress.\r\nC. She is making a nice dress.\r\nD. She will make a nice dress.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH009",
+        "NoiDung": "The red jacket is _______ the blue jacket.\r\nA. expensiver than\r\nB. more expensive than\r\nC. the most expensive\r\nD. most expensive",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH010",
+        "NoiDung": "Her brother is ______ soccer player on his team.\r\nA. the better\r\nB. better than\r\nC. the most good\r\nD. the best",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH011",
+        "NoiDung": "All students ____ wear uniforms at school because it is a rule.\r\n\r\nA. should    \r\nB. have to     \r\nC. ought to     \r\nD. must",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH012",
+        "NoiDung": "Nobody in the class is as tall as Mike.\r\n\r\nA. Everybody in the class is taller than Mike.\r\n\r\nB. Somebody in the class may be shorter than Mike.\r\n\r\nC. Mike is the tallest student in the class.\r\n\r\nD. Mike may be taller than most students in the class.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH013",
+        "NoiDung": "I haven\u0027t got enough money to buy a new car.\r\n\r\nA. I need more money to buy a new car.\r\n\r\nB. I don\u0027t want to spend more money on a new car.\r\n\r\nC. A new car is not something I really need.\r\n\r\nD. Money is not the most essential issue to buy a new car",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH014",
+        "NoiDung": "I am really keen on playing sports.\r\n\r\nA. I am a big fan of sports.\r\n\r\nB. Playing sports makes me sick.\r\n\r\nC. I am not really into sports.\r\n\r\nD. I can\u0027t stand sports.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH015",
+        "NoiDung": "“I will come back home soon,” he said.\r\n\r\nA. He advised to come back home soon.\r\n\r\nB. He offered to come back home soon.\r\n\r\nC. He promised to come back home soon.\r\n\r\nD. He suggested that he should come back home soon.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH016",
+        "NoiDung": "He prevented his close friend from telling the truth.\r\n\r\nA. He forbade his close friend to tell the truth.\r\n\r\nB. He allowed his close friend to tell the truth.\r\n\r\nC. He ordered his close friend to tell the truth.\r\n\r\nD. He paid his close friend to tell the truth.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH017",
+        "NoiDung": "Hoa reminded Lan ____ some groceries on the way home\r\n\r\nA. buying     B. to buying     C. buy     D. to buy",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH018",
+        "NoiDung": "My friend suggested ____ on a yoga course to lose weight.\r\n\r\nA. enrolled     B. enroll     C. enrolling     D. to enroll",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH019",
+        "NoiDung": "Tom and Ken admitted ____ to submit the assignments the day before.\r\n\r\nA. to forget     B. forgetting     C. forget     D. forgot",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH020",
+        "NoiDung": "The mother told her two daughters ____ too much fast food\r\n\r\nA. not to eat     B. to not eat    C. to eat not     D. not eat",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH021",
+        "NoiDung": "The doctor said to Mr Black that if he ate lots of fatty food, he ____ increase his chance of developing heart disease.\r\n\r\nA. will be     B. will    C. would be     D. would",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH022",
+        "NoiDung": "This is the right DVD, ____?\r\n\r\nA. isn\u0027t this     B. is this     C. isn\u0027t it    D. is it",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH023",
+        "NoiDung": "I\u0027m not the only one, ____?\r\n\r\nA. aren\u0027t I     B. am I    C. am not I     D. are not I",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH024",
+        "NoiDung": "Let\u0027s go out tonight, ____?\r\n\r\nA. shall we     B. will we     C. could we     D. would we",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH025",
+        "NoiDung": "Don\u0027t forget to write to me soon, ____?\r\n\r\nA. would you     B. could you     C. can you     D. will you",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH026",
+        "NoiDung": "Nothing frightens you, ____?\r\n\r\nA. does it     B. doesn\u0027t it     C. do they     D. don\u0027t they",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH027",
+        "NoiDung": "Though built almost five hundred years ago, the church remained practically intact.\r\n\r\nA. in perfection    B. in ruins     C. in chaos     D. in completion",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH028",
+        "NoiDung": "Tourists can do and see a lot in Ha Long Bay at a reasonable price.\r\n\r\nA. inexpensive     B. affordable     C. cheap     D. exorbitant",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH029",
+        "NoiDung": "The major stone sections of the Citadel of the Ho Dynasty remain intact thanks to the unique construction techniques.:\r\n\r\nA. special    B. common     C. excellent     D. ancient",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH030",
+        "NoiDung": "The Imperial Citadel of Thang Long was first built during the Ly Dynasty and then expanded by subsequent dynasties\r\n\r\nA. following    B. successive    C. preceding     D. next",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH031",
+        "NoiDung": "Visitors with more abundant travel budgets can enjoy the comfort of five-star hotels and luxury cruise ships.\r\n\r\nA. huge    B. plentiful     C. mean    D. tight",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH032",
+        "NoiDung": "You may choose one from the five World Heritage Sites in Viet Nam ____ in this leaflet to visit on your next field trip.\r\n\r\nA. includes     B. including    C. included     D. to include",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH033",
+        "NoiDung": "____ UNESCO criteria for outstanding universal value to humanity, Trang An Scenic Landscape Complex was added to the World Heritage List in 2014.\r\n\r\nA. Meeting    B. Met     C. To meet     D. Having met",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH034",
+        "NoiDung": "The most magnificent feature of Taj Mahal ____ is the central dome.\r\n\r\nA. noticed     B. being noticed     C. to notice    D. noticing",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH035",
+        "NoiDung": "Scientists ____ on the site found many ancient tools, tombs and pottery, and made some important archaeological discoveries.\r\n\r\nA. worked     B. working    C. to work     D. to be working",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH036",
+        "NoiDung": "It is not easy at all to get a good job without any ____ qualifications.\r\n\r\nA. academic     B. social     C. great     D. favourite",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH037",
+        "NoiDung": "At the ____ level, you can join three-year or four-year colleges.\r\n\r\nA. primary    B. secondary     C. postgraduate     D. undergraduate",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH038",
+        "NoiDung": "Hugh is quite worried because he hasn\u0027t ____ for the end-of-term test.\r\n\r\nA. examined    B. researched     C. studied     D. read",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH039",
+        "NoiDung": "Any pupil caught ____ was made to stand at the front of the class.\r\n\r\nA. misbehave     B. misbehaved     C. misbehaviour     D. misbehaving",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH040",
+        "NoiDung": "They ____ sacrifices so that their only child could have a good education.\r\n\r\nA. made     B. did    C. provided    D. lent",
+        "DapAn": "A"
+      }
+    ]
+  },
+  {
+    "MaMH": "MH001",
+    "TenMH": "Lịch Sử Đảng",
+    "NganHangCauHoi": [
+      {
+        "MaCH": "CH001",
+        "NoiDung": "Ở Việt Nam, cuối năm 1928, các thành viên của tổ chức nào sau đây thực hiện chủ trương “vô sản hóa”?\r\n\r\nA. Đảng Lập hiến.\r\n\r\nB. Việt Nam Quốc dân đảng.\r\n\r\nC. Hội Việt Nam Cách mạng Thanh niên.\r\n\r\nD. Việt Nam nghĩa đoàn.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH002",
+        "NoiDung": "Lý luận nào sau đây được cán bộ của Hội Việt Nam Cách mạng thanh niên truyền bá vào Việt Nam?\r\n\r\nA. Lý luận Mác- Lênin\r\n\r\nB. Lý luận đấu tranh giai cấp\r\n\r\nC. Lý luận giải phóng dân tộc\r\n\r\nD. Lý luận cách mạng vô sản",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH003",
+        "NoiDung": "Báo Thanh niên và tác phẩm Đường Kách mệnh đã trang bị lí luận gì cho các cán bộ của Hội Việt Nam cách mạng thanh niên\r\n\r\nA. lí luận Mác – Lê nin\r\n\r\nB. tư tưởng dân chủ tư sản\r\n\r\nC. lí luận cách mạng giải phóng dân tộc  \r\n\r\nD. chủ nghĩa quân phiệt hiếu chiến",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH004",
+        "NoiDung": "Đâu là cơ quan ngôn luận của Đông Dương Cộng sản đảng?\r\n\r\nA. Báo Thanh niên B. Báo Đỏ\r\n\r\nC. Báo Búa liềm\r\n\r\nD. Báo Giải phóng",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH005",
+        "NoiDung": "Báo Đỏ là cơ quan ngôn luận của Đảng nào?\r\n\r\nA. Việt Nam Quốc dân đảng.\r\n\r\nB. An Nam Cộng sản đảng.\r\n\r\nC. Đông Dương Cộng sản đảng.\r\n\r\nD. Đông Dương cộng sản liên đoàn.",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH006",
+        "NoiDung": "Tổ chức tiền thân của Đông Dương cộng sản liên đoàn là tổ chức nào?\r\n\r\nA. Tân Việt cách mạng đảng\r\n\r\nB. Hội Việt Nam cách mạng Thanh niên\r\n\r\nC. Việt Nam Quốc dân đảng\r\n\r\nD. Hội Phục Việt",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH007",
+        "NoiDung": "Tổ chức cộng sản nào không tham dự hội nghị hợp nhất các tổ chức cộng sản ở Cửu Long (Trung Quốc) đầu năm 1930?\r\n\r\nA. Đông Dương cộng sản đảng\r\n\r\nB. An Nam cộng sản đảng\r\n\r\nC. Đông Dương cộng sản liên đoàn\r\n\r\nD. Hội Việt Nam Cách mạng Thanh niên",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH008",
+        "NoiDung": "Văn kiện nào sau đây được Hội nghị thành lập Đảng cộng sản Việt Nam đầu năm 1930 thông qua?\r\n\r\nA. Đề cương văn hóa Việt Nam.\r\n\r\nB. Luận cương chính trị.\r\n\r\nC. Báo cáo chính trị.\r\n\r\nD. Chính cương vắn tắt.",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH009",
+        "NoiDung": "Văn kiện nào của Đảng đặt nhiệm vụ chống đế quốc lên hàng đầu?\r\n\r\nA. Chính cương vắn tắt, Sách lược vắn tắt do Hội nghị thành lập Đảng thông qua.\r\n\r\nB. Luận cương chính trị tháng 10-1930.\r\n\r\nC. Thư của Trung ương gửi cho các cấp đảng bộ (12 - 1930).\r\n\r\nD. Nghị quyết Đại hội lần thứ nhất của Đảng (3 - 1935).",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH010",
+        "NoiDung": "Trong Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam (1930) đề ra nhiệm vụ thành lập chính phủ\r\n\r\nA. Nhân dân\r\n\r\nB. Công- nông\r\n\r\nC. Công- nông- binh\r\n\r\nD. Dân chủ cộng hòa",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH011",
+        "NoiDung": "Cương lĩnh chính trị (2-1930) của Đảng Cộng sản Việt Nam xác định giai cấp lãnh đạo cách mạng là \r\n\r\nA. Nông dân.\r\n\r\nB. Tư sản dân tộc.\r\n\r\nC. Công nhân.\r\n\r\nD. Tiểu tư sản trí thức",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH012",
+        "NoiDung": "Tư tưởng cốt lõi thể hiện trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam (đầu năm 1930) là\r\n\r\nA. Tự do và dân chủ\r\n\r\nB. Độc lập và tự do\r\n\r\nC. Ruộng đất dân cày\r\n\r\nD. Đoàn kết với cách mạng thế giới",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH013",
+        "NoiDung": "Nhân tố mang tính tất yếu đầu tiên chuẩn bị cho những thắng lợi về sau của cách mạng Việt Nam là\r\n\r\nA. Sự lãnh đạo đúng đắn của Đảng Cộng sản Việt Nam.\r\n\r\nB. Tinh thần đại đoàn kết của các tầng lớp nhân dân.\r\n\r\nC. Sự phát triển mạnh mẽ của đất nước về kinh tế, chính trị.\r\n\r\nD. Sự giúp đỡ của các lực lượng dân chủ thế giới.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH014",
+        "NoiDung": "Hạn chế lớn nhất của các tổ chức cộng sản xuất hiện năm 1929 là\r\n\r\nA. Sự đối lập về ý thức hệ\r\n\r\nB. Hoạt động riêng rẽ, tranh giành ảnh hưởng với nhau\r\n\r\nC. Còn thiếu đường lối đấu tranh đúng đắn\r\n\r\nD. Thiếu một bộ chỉ huy thống nhất",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH015",
+        "NoiDung": "Tác phẩm lý luận đầu tiên vạch ra phương hướng cơ bản về chiến lược và sách lược của cách mạng giải phóng dân tộc Việt Nam là\r\n\r\nA. Bản án chế độ thực dân Pháp\r\n\r\nB. Đường Kách mệnh\r\n\r\nC. Chính cương vắn tắt, sách lược vắn tắt\r\n\r\nD. Luận cương chính trị",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH016",
+        "NoiDung": "Nguyễn Ái Quốc đóng vai trò như thế nào tại hội nghị thành lập Đảng (1-1930)?\r\n\r\nA. Chủ trì và thông qua Cương lĩnh chính trị đầu tiên của Đảng.\r\n\r\nB. Chủ trì hội nghị thành lập Đảng.\r\n\r\nC. Tham gia hội nghị với tư cách đại biểu của Quốc tế cộng sản.\r\n\r\nD. Là đại biểu của một trong các tổ chức cộng sản của Việt Nam.",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH017",
+        "NoiDung": "Sự kiện nào đánh dấu phong trào công nhân Việt Nam hoàn toàn chuyển sang đấu tranh tự giác?\r\n\r\nA. Sự thành lập Công hội năm 1920\r\n\r\nB. Cuộc bãi công của công nhân Ba Son tháng 8 - 1925\r\n\r\nC. Phong trào vô sản hóa cuối năm 1928\r\n\r\nD. Đảng Cộng sản Việt Nam được thành lập đầu năm 1930",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH018",
+        "NoiDung": "Sự kiện quan trọng mở ra thời kì mới của phong trào cách mạng Đông Dương đầu thế kỉ XX là\r\n\r\nA. Phong trào yêu nước phát triển mạnh mẽ.\r\n\r\nB. Chủ nghĩa Mác- Lê-nin được truyền bá.\r\n\r\nC. Đảng Cộng sản Việt Nam ra đời.\r\n\r\nD. Liên minh công-nông hình thành.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH019",
+        "NoiDung": "Ý nào phản ánh không đúng về đóng góp của Nguyễn Ái Quốc trong Hội nghị hợp nhất các tổ chức cộng sản ở Việt Nam đầu 1930?\r\n\r\nA. Soạn thảo Cương lĩnh Chính trị đầu tiên của Đảng\r\n\r\nB. Tuyên truyền chủ nghĩa Mác Lê-nin cho những người cộng sản Việt Nam\r\n\r\nC. Là người tổ chức hội nghị\r\n\r\nD. Thống nhất các tổ chức Cộng sản để thành lập Đảng Cộng sản Việt Nam",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH020",
+        "NoiDung": "Vai trò của Nguyễn Ái Quốc trong hội nghị hợp nhất ba tổ chức cộng sản thể hiện qua việc\r\n\r\nA. Soạn thảo luận cương chính trị để Hội nghị thông qua\r\n\r\nB. Thống nhất các tổ chức cộng sản để thành lập một đảng duy nhất\r\n\r\nC. Truyền bá chủ nghĩa Mác - Lênin vào Việt Nam\r\n\r\nD. Thông qua danh sách ban chấp hành trung ương Đảng",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH021",
+        "NoiDung": "Năm 1925, Nguyễn Ái Quốc chưa thành lập một chính đảng vô sản ở Việt Nam vì lí do nào dưới đây?\r\n\r\nA. Chỉ thị của quốc tế cộng sản\r\n\r\nB. Công nhân chưa trưởng thành, chủ nghĩa Mác Lê nin chưa được truyền bá rộng rãi\r\n\r\nC. Lực lượng cách mạng chưa được tập hợp, giác ngộ đầy đủ\r\n\r\nD. Pháp tăng cường đàn áp phong trào cách mạng",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH022",
+        "NoiDung": "Điểm khác nhau cơ bản giữa sự ra đời của Đảng Cộng sản Việt Nam với các đảng cộng sản trên thế giới là\r\n\r\nA. Có sự kết hợp với phong trào yêu nước\r\n\r\nB. Chủ nghĩa Mác- Lênin được biến đổi sang tư tưởng Hồ Chí Minh\r\n\r\nC. Phong trào công nhân giữ vai trò quyết định\r\n\r\nD. Chủ nghĩa Mác- Lênin giữ vai trò quyết định",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH023",
+        "NoiDung": "Tính đúng đắn và sáng tạo của Cương lĩnh chính trị đầu tiên (tháng 2-1930) của Đảng Cộng sản Việt Nam được thể hiện ở việc xác định\r\n\r\nA. Giai cấp lãnh đạo và lực lượng tham gia cách mạng.\r\n\r\nB. Lực lượng nòng cốt của cách mạng.\r\n\r\nC. Nhiệm vụ của cách mạng tư sản dân quyền.\r\n\r\nD. Mối quan hệ cách mạng Việt Nam và cách mạng thế giới.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH024",
+        "NoiDung": "Cơ sở nào để Nguyễn Ái Quốc xác định cách mạng Việt Nam là một bộ phận khăng khít của cách mạng thế giới?\r\n\r\nA. Do chung một tổ chức lãnh đạo\r\n\r\nB. Do chung mục tiêu độc lập dân tộc\r\n\r\nC. Do chung lý tưởng chủ nghĩa xã hội\r\n\r\nD. Do chung kẻ thù là chủ nghĩa đế quốc",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH025",
+        "NoiDung": "Cương lĩnh chính trị đầu tiên của đảng Cộng sản Việt Nam đầu năm 1930 sáng tạo so với nguyên ý của chủ nghĩa Mác – Lê-nin ở việc xác định\r\n\r\nA. Lực lượng cách mạng.\r\n\r\nB. Phương hướng tiến lên.\r\n\r\nC. Phương pháp đấu tranh.\r\n\r\nD. Giai cấp lãnh đạo.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH026",
+        "NoiDung": "Bài học chủ yếu nào có thể rút ra cho cách mạng Việt Nam từ sự chia rẽ của ba tổ chức cộng sản năm 1929?\r\n\r\nA. Xây dựng khối đoàn kết trong Đảng.\r\n\r\nB.  Thống nhất trong lực lượng lãnh đạo.\r\n\r\nC. Xây dựng khối liên minh công nông vững chắc.\r\n\r\nD.  Thống nhất về tư tưởng chính trị.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH027",
+        "NoiDung": "Điểm sáng tạo nhất của Nguyễn Ái Quốc trong quá trình vận động thành lập Đảng Cộng sản Việt Nam là gì?\r\n\r\nA. Thành lập Tâm tâm xã.\r\n\r\nB. Thành lập Việt Nam Quốc dân đảng.\r\n\r\nC. Thành lập Cộng sản đoàn.\r\n\r\nD. Thành lập Hội Việt Nam Cách mạng Thanh niên.",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH028",
+        "NoiDung": "Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam đã kết hợp đúng đắn vấn đề\r\n\r\nA. Kinh tế và chính trị\r\n\r\nB. Dân tộc và quân chủ.\r\n\r\nC. Dân tộc và giai cấp.\r\n\r\nD. Phong kiến và tư sản.",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH029",
+        "NoiDung": "Lực lượng cách mạng chủ yếu được xác định trong Cương lĩnh chính trị đầu tiên của Đảng bao gồm\r\n\r\nA. Công nhân, nông dân, tiểu tư sản, trí thức.\r\n\r\nB. Công nhân, nông dân, trung và tiểu địa chủ.\r\n\r\nC. Công nhân, nông dân, tư sản dân tộc.\r\n\r\nD. Công nhân, nông dân, tư sản.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH030",
+        "NoiDung": "Đảng Cộng sản Việt Nam ra đời là sự chuẩn bị tất yếu đầu tiên có tính chất quyết định vì\r\n\r\nA. Đã chấm dứt thời kỳ khủng hoảng về đường lối và giai cấp lãnh đạo.\r\n\r\nB. Đáp ứng căn bản nguyện vọng của các giai cấp trong xã hội.\r\n\r\nC. Lãnh đạo nhân dân tổng khởi nghĩa tháng 8 thành công.\r\n\r\nD. Đề ra đường lối chính trị đúng đắn và hệ thống tổ chức chặt chẽ.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH031",
+        "NoiDung": "Phong trào nào là cuộc tập dượt đầu tiên của Đảng Cộng sản và quần chúng cho Tổng khởi nghĩa tháng Tám sau này?\r\n\r\nA. Phong trào cách mạng 1930 -1931\r\n\r\nB. Cuộc vân động dân chủ 1936 -1939\r\n\r\nC. Khởi nghĩa Bắc Sơn và Nam Kì (1940)\r\n\r\nD. Cao trào kháng Nhật cứu nước",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH032",
+        "NoiDung": "Đặc điểm nổi bật của tình hình kinh tế Việt Nam trong những năm 1929-1933 là\r\n\r\nA. Khủng hoảng trầm trọng\r\n\r\nB. Phát triển mạnh mẽ\r\n\r\nC. Phát triển chậm\r\n\r\nD. Phát triển xen lẫn khủng hoảng",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH033",
+        "NoiDung": "Tình hình nông nghiệp Việt Nam trong cuộc khủng hoảng kinh thế giới (1929 -1933) biểu hiện như thế nào?\r\n\r\nA. Giá nông phẩm giảm mạnh, ruộng đất bị bỏ hoang.\r\n\r\nB. Các đồn điền trồng lúa chuyển sang trồng cây công nghiệp.\r\n\r\nC. Tư bản Pháp đẩy mạnh hoạt động chiến đất của nhân dân.\r\n\r\nD. Diện tích trồng cây cao su tăng nhanh gấp 10 lần so với trước khủng hoảng.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH034",
+        "NoiDung": "Cuộc khủng hoảng kinh tế (1929 – 1933) đã gây ra hậu quả gì đối với xã hội Việt Nam?\r\n\r\nA. Làm gia tăng các mâu thuẫn trong xã hội\r\n\r\nB. Làm trầm trọng thêm tình trạng đói khổ của các tầng lớp nhân dân lao động\r\n\r\nC. Thúc đẩy các phong trào đấu tranh của quần chúng phát triển\r\n\r\nD. Làm gia tăng các hoạt động khủng bố của thực dân Pháp",
+        "DapAn": "B"
+      },
+      {
+        "MaCH": "CH035",
+        "NoiDung": "Chính quyền cách mạng ra đời trong phong trào 1930 -1931 ở Nghệ An và Hà Tĩnh theo hình thức nào?\r\n\r\nA. Chính quyền công- nông- binh\r\n\r\nB. Chính quyền dân chủ tư sản\r\n\r\nC. Chính quyền Xô viết\r\n\r\nD. Chính quyền của dân, do dân, vì dân",
+        "DapAn": "C"
+      },
+      {
+        "MaCH": "CH036",
+        "NoiDung": "Hình thức mặt trận được thành lập trong phong trào 1930 - 1931 là\r\n\r\nA. Mặt trận dân chủ Đông Dương\r\n\r\nB. Mặt trận nhân dân phản đế Đông Dương\r\n\r\nC. Mặt trận dân tộc phản đế Đông Dương\r\n\r\nD. Chỉ có liên minh công - nông.",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH037",
+        "NoiDung": "Luận cương chính trị (10 - 1930) xác định hai nhiệm vụ chiến lược của cách mạng Đông Dương là\r\n\r\nA. Lật đổ ách thống trị của thực dân Pháp\r\n\r\nB. Lật đổ ách thống trị của chủ nghĩa đế quốc\r\n\r\nC. Đánh đổ đế quốc và phong kiến tay sai \r\n\r\nD. Đánh đổ phong kiến và đế quốc",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH038",
+        "NoiDung": "Đảng Cộng sản Việt Nam đổi tên thành Đảng Cộng sản Đông Dương khi nào?\r\n\r\nA. tháng 10 - 1930.\r\n\r\nB. tháng 4 - 1931.\r\n\r\nC. tháng 3 - 1935.\r\n\r\nD. tháng 7 - 1935.",
+        "DapAn": "A"
+      },
+      {
+        "MaCH": "CH039",
+        "NoiDung": "Chính sách nào sau đây của chính quyền Xô viết Nghệ - Tĩnh không được thực hiện trong thời gian tồn tại?\r\n\r\nA. Quần chúng được tự do tham gia các đoàn thể, tự do hội họp\r\n\r\nB. Chia lại ruộng công, xóa nợ cho người nghèo\r\n\r\nC. Mở lớp dạy chữ Quốc ngữ cho nhân dân\r\n\r\nD. Tiến hành bầu cử chính quyền các cấp",
+        "DapAn": "D"
+      },
+      {
+        "MaCH": "CH040",
+        "NoiDung": "Nhận xét nào dưới đây về chính quyền Xô Viết Nghệ- Tĩnh là không đúng?\r\n\r\nA. Là nguồn cổ vũ mạnh mẽ phong trào quần chúng nhân dân trong cả nước\r\n\r\nB. Đây là hình thức nhà nước mới do giai cấp công nhân sáng lập ra\r\n\r\nC. Đã chứng tỏ bản chất cách mạng và tính ưu việt của chính quyền mới\r\n\r\nD. Đây thực sự là chính quyền cách mạng của dân, do dân và vì dân",
+        "DapAn": "B"
+      }
+    ]
+  }
+]

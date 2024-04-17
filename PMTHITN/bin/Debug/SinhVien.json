@@ -1,0 +1,308 @@
+[
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV001",
+    "Ten": "Phạm Đình Chí Kiên",
+    "Email": "phamdinhchikien@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV002",
+    "Ten": "Phạm Gia Bảo",
+    "Email": "phamgiaobao@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV003",
+    "Ten": "Nguyễn Quang Mạnh",
+    "Email": "nguyenquangmanh@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV004",
+    "Ten": "Nguyễn Đức Tài",
+    "Email": "nguyenductai@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV005",
+    "Ten": "Nguyễn Thành Nam",
+    "Email": "nguyenthanhnam@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV006",
+    "Ten": "Nguyễn Anh Minh",
+    "Email": "nguyenanhminh@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV007",
+    "Ten": "Lê Trần Trung Đức",
+    "Email": "letrantrungduc@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV008",
+    "Ten": "Trần Chí Kiên",
+    "Email": "tranchikien@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV009",
+    "Ten": "Danh Khôi Nguyên",
+    "Email": "danhkhoinguyen@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV010",
+    "Ten": "Trần Hưng Thịnh",
+    "Email": "tranhungthinh@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV011",
+    "Ten": "Đặng Anh Dũng",
+    "Email": "danganhdung@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML001",
+      "ML003",
+      "ML004"
+    ],
+    "Ma": "SV012",
+    "Ten": "Đặng Tường An",
+    "Email": "dangtuongan@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV013",
+    "Ten": "Huỳnh Đức Nhân",
+    "Email": "huynhducnhan@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV014",
+    "Ten": "Huỳnh Chí Bảo",
+    "Email": "huynhchibao@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV015",
+    "Ten": "Vũ Thái Sơn",
+    "Email": "vuthaison@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV016",
+    "Ten": "Vũ Toàn Thắng",
+    "Email": "vutoanthang@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV017",
+    "Ten": "Dương Minh Dũng Việt",
+    "Email": "duongminhdungviet@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV018",
+    "Ten": "Lương Minh Tài",
+    "Email": "luongminhtai@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV019",
+    "Ten": "Lâm Đức Vương",
+    "Email": "lamducvuong@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV020",
+    "Ten": "Lâm Vinh Quang",
+    "Email": "lamvinhquang@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV021",
+    "Ten": "Trương Phúc An",
+    "Email": "truongphucan@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV022",
+    "Ten": "Trương Minh Hiếu",
+    "Email": "truongminhhieu@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV023",
+    "Ten": "Hoàng Mạnh Quân",
+    "Email": "hoangmanhquan@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [
+      "ML002",
+      "ML003",
+      "ML005"
+    ],
+    "Ma": "SV024",
+    "Ten": "Đinh Hiển Đạt",
+    "Email": "dinhtiendat@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [],
+    "Ma": "SV025",
+    "Ten": "Ngô Gia Bảo",
+    "Email": "ngogiabao@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [],
+    "Ma": "SV026",
+    "Ten": "Ngô Bình An",
+    "Email": "ngobinhan@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [],
+    "Ma": "SV027",
+    "Ten": "Võ Hữu Phước",
+    "Email": "vohuuphuoc@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [],
+    "Ma": "SV028",
+    "Ten": "Võ Phúc Lâm",
+    "Email": "vophuclam@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [],
+    "Ma": "SV029",
+    "Ten": "Ngô Gia Minh",
+    "Email": "ngogiaminh@gmail.com",
+    "MatKhau": "123456"
+  },
+  {
+    "MaLop": [],
+    "Ma": "SV030",
+    "Ten": "Lâm Canh Bình",
+    "Email": "lamcanhbinh@gmail.com",
+    "MatKhau": "123456"
+  }
+]

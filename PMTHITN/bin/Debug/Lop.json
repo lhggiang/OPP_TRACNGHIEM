@@ -1,0 +1,127 @@
+[
+  {
+    "MaLop": "ML001",
+    "TenLop": "Lịch Sử Đảng 1",
+    "MaGV": "GV001",
+    "DanhSachSinhVien": [
+      "SV001",
+      "SV002",
+      "SV003",
+      "SV004",
+      "SV005",
+      "SV006",
+      "SV007",
+      "SV008",
+      "SV009",
+      "SV010",
+      "SV011",
+      "SV012"
+    ],
+    "DanhSachDeThi": [
+      "DT001",
+      "DT002"
+    ]
+  },
+  {
+    "MaLop": "ML002",
+    "TenLop": "Lịch Sử Đảng 2",
+    "MaGV": "GV001",
+    "DanhSachSinhVien": [
+      "SV013",
+      "SV014",
+      "SV015",
+      "SV016",
+      "SV017",
+      "SV018",
+      "SV019",
+      "SV020",
+      "SV021",
+      "SV022",
+      "SV023",
+      "SV024"
+    ],
+    "DanhSachDeThi": [
+      "DT003"
+    ]
+  },
+  {
+    "MaLop": "ML003",
+    "TenLop": "Tin học đại cương 1",
+    "MaGV": "GV002",
+    "DanhSachSinhVien": [
+      "SV001",
+      "SV002",
+      "SV003",
+      "SV004",
+      "SV005",
+      "SV006",
+      "SV007",
+      "SV008",
+      "SV009",
+      "SV010",
+      "SV011",
+      "SV012",
+      "SV013",
+      "SV014",
+      "SV015",
+      "SV016",
+      "SV017",
+      "SV018",
+      "SV019",
+      "SV020",
+      "SV021",
+      "SV022",
+      "SV023",
+      "SV024"
+    ],
+    "DanhSachDeThi": [
+      "DT004"
+    ]
+  },
+  {
+    "MaLop": "ML004",
+    "TenLop": "Tiếng Anh Căn Bản 1",
+    "MaGV": "GV003",
+    "DanhSachSinhVien": [
+      "SV001",
+      "SV002",
+      "SV003",
+      "SV004",
+      "SV005",
+      "SV006",
+      "SV007",
+      "SV008",
+      "SV009",
+      "SV010",
+      "SV011",
+      "SV012"
+    ],
+    "DanhSachDeThi": [
+      "DT005",
+      "DT006",
+      "DT005"
+    ]
+  },
+  {
+    "MaLop": "ML005",
+    "TenLop": "Tiếng Anh Căn Bản 2",
+    "MaGV": "GV004",
+    "DanhSachSinhVien": [
+      "SV013",
+      "SV014",
+      "SV015",
+      "SV016",
+      "SV017",
+      "SV018",
+      "SV019",
+      "Sv020",
+      "SV021",
+      "SV022",
+      "SV023",
+      "SV024"
+    ],
+    "DanhSachDeThi": [
+      "DT007"
+    ]
+  }
+]

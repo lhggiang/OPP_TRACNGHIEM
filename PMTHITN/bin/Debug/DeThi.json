@@ -1,0 +1,818 @@
+[
+  {
+    "MaDT": "DT001",
+    "TenMH": "Lịch Sử Đảng",
+    "ThoiGianLamBai": "20/04/2024",
+    "SoLuongCauHoi": 20,
+    "ThoiGianThi": 30,
+    "DanhSachCauHoi": [
+    ],
+    "DanhSachKetQua": []
+  },
+  {
+    "MaDT": "DT002",
+    "TenMH": "Lịch Sử Đảng",
+    "ThoiGianLamBai": "30/04/2024",
+    "SoLuongCauHoi": 30,
+    "ThoiGianThi": 45,
+    "DanhSachCauHoi": [
+      "CH003",
+      "CH026",
+      "CH011",
+      "CH033",
+      "CH007",
+      "CH034",
+      "CH008",
+      "CH006",
+      "CH025",
+      "CH021",
+      "CH004",
+      "CH035",
+      "CH028",
+      "CH027",
+      "CH038",
+      "CH030",
+      "CH012",
+      "CH023",
+      "CH002",
+      "CH010",
+      "CH036",
+      "CH024",
+      "CH015",
+      "CH017",
+      "CH039",
+      "CH040",
+      "CH013",
+      "CH029",
+      "CH037",
+      "CH019"
+    ],
+    "DanhSachKetQua": [
+      {
+        "MaKQ": 1,
+        "MaSV": "SV003",
+        "Ketqua": [
+          {
+            "CauHoi": {
+              "MaCH": "CH002",
+              "NoiDung": "Lý luận nào sau đây được cán bộ của Hội Việt Nam Cách mạng thanh niên truyền bá vào Việt Nam?\r\n\r\nA. Lý luận Mác- Lênin\r\n\r\nB. Lý luận đấu tranh giai cấp\r\n\r\nC. Lý luận giải phóng dân tộc\r\n\r\nD. Lý luận cách mạng vô sản",
+              "DapAn": "C"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH003",
+              "NoiDung": "Báo Thanh niên và tác phẩm Đường Kách mệnh đã trang bị lí luận gì cho các cán bộ của Hội Việt Nam cách mạng thanh niên\r\n\r\nA. lí luận Mác – Lê nin\r\n\r\nB. tư tưởng dân chủ tư sản\r\n\r\nC. lí luận cách mạng giải phóng dân tộc  \r\n\r\nD. chủ nghĩa quân phiệt hiếu chiến",
+              "DapAn": "C"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH004",
+              "NoiDung": "Đâu là cơ quan ngôn luận của Đông Dương Cộng sản đảng?\r\n\r\nA. Báo Thanh niên B. Báo Đỏ\r\n\r\nC. Báo Búa liềm\r\n\r\nD. Báo Giải phóng",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH006",
+              "NoiDung": "Tổ chức tiền thân của Đông Dương cộng sản liên đoàn là tổ chức nào?\r\n\r\nA. Tân Việt cách mạng đảng\r\n\r\nB. Hội Việt Nam cách mạng Thanh niên\r\n\r\nC. Việt Nam Quốc dân đảng\r\n\r\nD. Hội Phục Việt",
+              "DapAn": "A"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH007",
+              "NoiDung": "Tổ chức cộng sản nào không tham dự hội nghị hợp nhất các tổ chức cộng sản ở Cửu Long (Trung Quốc) đầu năm 1930?\r\n\r\nA. Đông Dương cộng sản đảng\r\n\r\nB. An Nam cộng sản đảng\r\n\r\nC. Đông Dương cộng sản liên đoàn\r\n\r\nD. Hội Việt Nam Cách mạng Thanh niên",
+              "DapAn": "C"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH008",
+              "NoiDung": "Văn kiện nào sau đây được Hội nghị thành lập Đảng cộng sản Việt Nam đầu năm 1930 thông qua?\r\n\r\nA. Đề cương văn hóa Việt Nam.\r\n\r\nB. Luận cương chính trị.\r\n\r\nC. Báo cáo chính trị.\r\n\r\nD. Chính cương vắn tắt.",
+              "DapAn": "D"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH010",
+              "NoiDung": "Trong Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam (1930) đề ra nhiệm vụ thành lập chính phủ\r\n\r\nA. Nhân dân\r\n\r\nB. Công- nông\r\n\r\nC. Công- nông- binh\r\n\r\nD. Dân chủ cộng hòa",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH011",
+              "NoiDung": "Cương lĩnh chính trị (2-1930) của Đảng Cộng sản Việt Nam xác định giai cấp lãnh đạo cách mạng là \r\n\r\nA. Nông dân.\r\n\r\nB. Tư sản dân tộc.\r\n\r\nC. Công nhân.\r\n\r\nD. Tiểu tư sản trí thức",
+              "DapAn": "C"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH012",
+              "NoiDung": "Tư tưởng cốt lõi thể hiện trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam (đầu năm 1930) là\r\n\r\nA. Tự do và dân chủ\r\n\r\nB. Độc lập và tự do\r\n\r\nC. Ruộng đất dân cày\r\n\r\nD. Đoàn kết với cách mạng thế giới",
+              "DapAn": "B"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH013",
+              "NoiDung": "Nhân tố mang tính tất yếu đầu tiên chuẩn bị cho những thắng lợi về sau của cách mạng Việt Nam là\r\n\r\nA. Sự lãnh đạo đúng đắn của Đảng Cộng sản Việt Nam.\r\n\r\nB. Tinh thần đại đoàn kết của các tầng lớp nhân dân.\r\n\r\nC. Sự phát triển mạnh mẽ của đất nước về kinh tế, chính trị.\r\n\r\nD. Sự giúp đỡ của các lực lượng dân chủ thế giới.",
+              "DapAn": "A"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH015",
+              "NoiDung": "Tác phẩm lý luận đầu tiên vạch ra phương hướng cơ bản về chiến lược và sách lược của cách mạng giải phóng dân tộc Việt Nam là\r\n\r\nA. Bản án chế độ thực dân Pháp\r\n\r\nB. Đường Kách mệnh\r\n\r\nC. Chính cương vắn tắt, sách lược vắn tắt\r\n\r\nD. Luận cương chính trị",
+              "DapAn": "B"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH017",
+              "NoiDung": "Sự kiện nào đánh dấu phong trào công nhân Việt Nam hoàn toàn chuyển sang đấu tranh tự giác?\r\n\r\nA. Sự thành lập Công hội năm 1920\r\n\r\nB. Cuộc bãi công của công nhân Ba Son tháng 8 - 1925\r\n\r\nC. Phong trào vô sản hóa cuối năm 1928\r\n\r\nD. Đảng Cộng sản Việt Nam được thành lập đầu năm 1930",
+              "DapAn": "D"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH019",
+              "NoiDung": "Ý nào phản ánh không đúng về đóng góp của Nguyễn Ái Quốc trong Hội nghị hợp nhất các tổ chức cộng sản ở Việt Nam đầu 1930?\r\n\r\nA. Soạn thảo Cương lĩnh Chính trị đầu tiên của Đảng\r\n\r\nB. Tuyên truyền chủ nghĩa Mác Lê-nin cho những người cộng sản Việt Nam\r\n\r\nC. Là người tổ chức hội nghị\r\n\r\nD. Thống nhất các tổ chức Cộng sản để thành lập Đảng Cộng sản Việt Nam",
+              "DapAn": "B"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH021",
+              "NoiDung": "Năm 1925, Nguyễn Ái Quốc chưa thành lập một chính đảng vô sản ở Việt Nam vì lí do nào dưới đây?\r\n\r\nA. Chỉ thị của quốc tế cộng sản\r\n\r\nB. Công nhân chưa trưởng thành, chủ nghĩa Mác Lê nin chưa được truyền bá rộng rãi\r\n\r\nC. Lực lượng cách mạng chưa được tập hợp, giác ngộ đầy đủ\r\n\r\nD. Pháp tăng cường đàn áp phong trào cách mạng",
+              "DapAn": "B"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH023",
+              "NoiDung": "Tính đúng đắn và sáng tạo của Cương lĩnh chính trị đầu tiên (tháng 2-1930) của Đảng Cộng sản Việt Nam được thể hiện ở việc xác định\r\n\r\nA. Giai cấp lãnh đạo và lực lượng tham gia cách mạng.\r\n\r\nB. Lực lượng nòng cốt của cách mạng.\r\n\r\nC. Nhiệm vụ của cách mạng tư sản dân quyền.\r\n\r\nD. Mối quan hệ cách mạng Việt Nam và cách mạng thế giới.",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH024",
+              "NoiDung": "Cơ sở nào để Nguyễn Ái Quốc xác định cách mạng Việt Nam là một bộ phận khăng khít của cách mạng thế giới?\r\n\r\nA. Do chung một tổ chức lãnh đạo\r\n\r\nB. Do chung mục tiêu độc lập dân tộc\r\n\r\nC. Do chung lý tưởng chủ nghĩa xã hội\r\n\r\nD. Do chung kẻ thù là chủ nghĩa đế quốc",
+              "DapAn": "D"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH025",
+              "NoiDung": "Cương lĩnh chính trị đầu tiên của đảng Cộng sản Việt Nam đầu năm 1930 sáng tạo so với nguyên ý của chủ nghĩa Mác – Lê-nin ở việc xác định\r\n\r\nA. Lực lượng cách mạng.\r\n\r\nB. Phương hướng tiến lên.\r\n\r\nC. Phương pháp đấu tranh.\r\n\r\nD. Giai cấp lãnh đạo.",
+              "DapAn": "A"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH026",
+              "NoiDung": "Bài học chủ yếu nào có thể rút ra cho cách mạng Việt Nam từ sự chia rẽ của ba tổ chức cộng sản năm 1929?\r\n\r\nA. Xây dựng khối đoàn kết trong Đảng.\r\n\r\nB.  Thống nhất trong lực lượng lãnh đạo.\r\n\r\nC. Xây dựng khối liên minh công nông vững chắc.\r\n\r\nD.  Thống nhất về tư tưởng chính trị.",
+              "DapAn": "A"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH027",
+              "NoiDung": "Điểm sáng tạo nhất của Nguyễn Ái Quốc trong quá trình vận động thành lập Đảng Cộng sản Việt Nam là gì?\r\n\r\nA. Thành lập Tâm tâm xã.\r\n\r\nB. Thành lập Việt Nam Quốc dân đảng.\r\n\r\nC. Thành lập Cộng sản đoàn.\r\n\r\nD. Thành lập Hội Việt Nam Cách mạng Thanh niên.",
+              "DapAn": "D"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH028",
+              "NoiDung": "Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam đã kết hợp đúng đắn vấn đề\r\n\r\nA. Kinh tế và chính trị\r\n\r\nB. Dân tộc và quân chủ.\r\n\r\nC. Dân tộc và giai cấp.\r\n\r\nD. Phong kiến và tư sản.",
+              "DapAn": "C"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH029",
+              "NoiDung": "Lực lượng cách mạng chủ yếu được xác định trong Cương lĩnh chính trị đầu tiên của Đảng bao gồm\r\n\r\nA. Công nhân, nông dân, tiểu tư sản, trí thức.\r\n\r\nB. Công nhân, nông dân, trung và tiểu địa chủ.\r\n\r\nC. Công nhân, nông dân, tư sản dân tộc.\r\n\r\nD. Công nhân, nông dân, tư sản.",
+              "DapAn": "A"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH030",
+              "NoiDung": "Đảng Cộng sản Việt Nam ra đời là sự chuẩn bị tất yếu đầu tiên có tính chất quyết định vì\r\n\r\nA. Đã chấm dứt thời kỳ khủng hoảng về đường lối và giai cấp lãnh đạo.\r\n\r\nB. Đáp ứng căn bản nguyện vọng của các giai cấp trong xã hội.\r\n\r\nC. Lãnh đạo nhân dân tổng khởi nghĩa tháng 8 thành công.\r\n\r\nD. Đề ra đường lối chính trị đúng đắn và hệ thống tổ chức chặt chẽ.",
+              "DapAn": "A"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH033",
+              "NoiDung": "Tình hình nông nghiệp Việt Nam trong cuộc khủng hoảng kinh thế giới (1929 -1933) biểu hiện như thế nào?\r\n\r\nA. Giá nông phẩm giảm mạnh, ruộng đất bị bỏ hoang.\r\n\r\nB. Các đồn điền trồng lúa chuyển sang trồng cây công nghiệp.\r\n\r\nC. Tư bản Pháp đẩy mạnh hoạt động chiến đất của nhân dân.\r\n\r\nD. Diện tích trồng cây cao su tăng nhanh gấp 10 lần so với trước khủng hoảng.",
+              "DapAn": "A"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH034",
+              "NoiDung": "Cuộc khủng hoảng kinh tế (1929 – 1933) đã gây ra hậu quả gì đối với xã hội Việt Nam?\r\n\r\nA. Làm gia tăng các mâu thuẫn trong xã hội\r\n\r\nB. Làm trầm trọng thêm tình trạng đói khổ của các tầng lớp nhân dân lao động\r\n\r\nC. Thúc đẩy các phong trào đấu tranh của quần chúng phát triển\r\n\r\nD. Làm gia tăng các hoạt động khủng bố của thực dân Pháp",
+              "DapAn": "B"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH035",
+              "NoiDung": "Chính quyền cách mạng ra đời trong phong trào 1930 -1931 ở Nghệ An và Hà Tĩnh theo hình thức nào?\r\n\r\nA. Chính quyền công- nông- binh\r\n\r\nB. Chính quyền dân chủ tư sản\r\n\r\nC. Chính quyền Xô viết\r\n\r\nD. Chính quyền của dân, do dân, vì dân",
+              "DapAn": "C"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH036",
+              "NoiDung": "Hình thức mặt trận được thành lập trong phong trào 1930 - 1931 là\r\n\r\nA. Mặt trận dân chủ Đông Dương\r\n\r\nB. Mặt trận nhân dân phản đế Đông Dương\r\n\r\nC. Mặt trận dân tộc phản đế Đông Dương\r\n\r\nD. Chỉ có liên minh công - nông.",
+              "DapAn": "D"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH037",
+              "NoiDung": "Luận cương chính trị (10 - 1930) xác định hai nhiệm vụ chiến lược của cách mạng Đông Dương là\r\n\r\nA. Lật đổ ách thống trị của thực dân Pháp\r\n\r\nB. Lật đổ ách thống trị của chủ nghĩa đế quốc\r\n\r\nC. Đánh đổ đế quốc và phong kiến tay sai \r\n\r\nD. Đánh đổ phong kiến và đế quốc",
+              "DapAn": "D"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH038",
+              "NoiDung": "Đảng Cộng sản Việt Nam đổi tên thành Đảng Cộng sản Đông Dương khi nào?\r\n\r\nA. tháng 10 - 1930.\r\n\r\nB. tháng 4 - 1931.\r\n\r\nC. tháng 3 - 1935.\r\n\r\nD. tháng 7 - 1935.",
+              "DapAn": "A"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH039",
+              "NoiDung": "Chính sách nào sau đây của chính quyền Xô viết Nghệ - Tĩnh không được thực hiện trong thời gian tồn tại?\r\n\r\nA. Quần chúng được tự do tham gia các đoàn thể, tự do hội họp\r\n\r\nB. Chia lại ruộng công, xóa nợ cho người nghèo\r\n\r\nC. Mở lớp dạy chữ Quốc ngữ cho nhân dân\r\n\r\nD. Tiến hành bầu cử chính quyền các cấp",
+              "DapAn": "D"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH040",
+              "NoiDung": "Nhận xét nào dưới đây về chính quyền Xô Viết Nghệ- Tĩnh là không đúng?\r\n\r\nA. Là nguồn cổ vũ mạnh mẽ phong trào quần chúng nhân dân trong cả nước\r\n\r\nB. Đây là hình thức nhà nước mới do giai cấp công nhân sáng lập ra\r\n\r\nC. Đã chứng tỏ bản chất cách mạng và tính ưu việt của chính quyền mới\r\n\r\nD. Đây thực sự là chính quyền cách mạng của dân, do dân và vì dân",
+              "DapAn": "B"
+            },
+            "Traloi": "B"
+          }
+        ],
+        "diem": 3,
+        "ThoiGianNop": "4/17/2024 6:25:10 PM"
+      },
+      {
+        "MaKQ": 3,
+        "MaSV": "SV002",
+        "Ketqua": [
+          {
+            "CauHoi": {
+              "MaCH": "CH002",
+              "NoiDung": "Lý luận nào sau đây được cán bộ của Hội Việt Nam Cách mạng thanh niên truyền bá vào Việt Nam?\r\n\r\nA. Lý luận Mác- Lênin\r\n\r\nB. Lý luận đấu tranh giai cấp\r\n\r\nC. Lý luận giải phóng dân tộc\r\n\r\nD. Lý luận cách mạng vô sản",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH003",
+              "NoiDung": "Báo Thanh niên và tác phẩm Đường Kách mệnh đã trang bị lí luận gì cho các cán bộ của Hội Việt Nam cách mạng thanh niên\r\n\r\nA. lí luận Mác – Lê nin\r\n\r\nB. tư tưởng dân chủ tư sản\r\n\r\nC. lí luận cách mạng giải phóng dân tộc  \r\n\r\nD. chủ nghĩa quân phiệt hiếu chiến",
+              "DapAn": "C"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH004",
+              "NoiDung": "Đâu là cơ quan ngôn luận của Đông Dương Cộng sản đảng?\r\n\r\nA. Báo Thanh niên B. Báo Đỏ\r\n\r\nC. Báo Búa liềm\r\n\r\nD. Báo Giải phóng",
+              "DapAn": "C"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH006",
+              "NoiDung": "Tổ chức tiền thân của Đông Dương cộng sản liên đoàn là tổ chức nào?\r\n\r\nA. Tân Việt cách mạng đảng\r\n\r\nB. Hội Việt Nam cách mạng Thanh niên\r\n\r\nC. Việt Nam Quốc dân đảng\r\n\r\nD. Hội Phục Việt",
+              "DapAn": "A"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH007",
+              "NoiDung": "Tổ chức cộng sản nào không tham dự hội nghị hợp nhất các tổ chức cộng sản ở Cửu Long (Trung Quốc) đầu năm 1930?\r\n\r\nA. Đông Dương cộng sản đảng\r\n\r\nB. An Nam cộng sản đảng\r\n\r\nC. Đông Dương cộng sản liên đoàn\r\n\r\nD. Hội Việt Nam Cách mạng Thanh niên",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH008",
+              "NoiDung": "Văn kiện nào sau đây được Hội nghị thành lập Đảng cộng sản Việt Nam đầu năm 1930 thông qua?\r\n\r\nA. Đề cương văn hóa Việt Nam.\r\n\r\nB. Luận cương chính trị.\r\n\r\nC. Báo cáo chính trị.\r\n\r\nD. Chính cương vắn tắt.",
+              "DapAn": "D"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH010",
+              "NoiDung": "Trong Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam (1930) đề ra nhiệm vụ thành lập chính phủ\r\n\r\nA. Nhân dân\r\n\r\nB. Công- nông\r\n\r\nC. Công- nông- binh\r\n\r\nD. Dân chủ cộng hòa",
+              "DapAn": "C"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH011",
+              "NoiDung": "Cương lĩnh chính trị (2-1930) của Đảng Cộng sản Việt Nam xác định giai cấp lãnh đạo cách mạng là \r\n\r\nA. Nông dân.\r\n\r\nB. Tư sản dân tộc.\r\n\r\nC. Công nhân.\r\n\r\nD. Tiểu tư sản trí thức",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH012",
+              "NoiDung": "Tư tưởng cốt lõi thể hiện trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam (đầu năm 1930) là\r\n\r\nA. Tự do và dân chủ\r\n\r\nB. Độc lập và tự do\r\n\r\nC. Ruộng đất dân cày\r\n\r\nD. Đoàn kết với cách mạng thế giới",
+              "DapAn": "B"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH013",
+              "NoiDung": "Nhân tố mang tính tất yếu đầu tiên chuẩn bị cho những thắng lợi về sau của cách mạng Việt Nam là\r\n\r\nA. Sự lãnh đạo đúng đắn của Đảng Cộng sản Việt Nam.\r\n\r\nB. Tinh thần đại đoàn kết của các tầng lớp nhân dân.\r\n\r\nC. Sự phát triển mạnh mẽ của đất nước về kinh tế, chính trị.\r\n\r\nD. Sự giúp đỡ của các lực lượng dân chủ thế giới.",
+              "DapAn": "A"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH015",
+              "NoiDung": "Tác phẩm lý luận đầu tiên vạch ra phương hướng cơ bản về chiến lược và sách lược của cách mạng giải phóng dân tộc Việt Nam là\r\n\r\nA. Bản án chế độ thực dân Pháp\r\n\r\nB. Đường Kách mệnh\r\n\r\nC. Chính cương vắn tắt, sách lược vắn tắt\r\n\r\nD. Luận cương chính trị",
+              "DapAn": "B"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH017",
+              "NoiDung": "Sự kiện nào đánh dấu phong trào công nhân Việt Nam hoàn toàn chuyển sang đấu tranh tự giác?\r\n\r\nA. Sự thành lập Công hội năm 1920\r\n\r\nB. Cuộc bãi công của công nhân Ba Son tháng 8 - 1925\r\n\r\nC. Phong trào vô sản hóa cuối năm 1928\r\n\r\nD. Đảng Cộng sản Việt Nam được thành lập đầu năm 1930",
+              "DapAn": "D"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH019",
+              "NoiDung": "Ý nào phản ánh không đúng về đóng góp của Nguyễn Ái Quốc trong Hội nghị hợp nhất các tổ chức cộng sản ở Việt Nam đầu 1930?\r\n\r\nA. Soạn thảo Cương lĩnh Chính trị đầu tiên của Đảng\r\n\r\nB. Tuyên truyền chủ nghĩa Mác Lê-nin cho những người cộng sản Việt Nam\r\n\r\nC. Là người tổ chức hội nghị\r\n\r\nD. Thống nhất các tổ chức Cộng sản để thành lập Đảng Cộng sản Việt Nam",
+              "DapAn": "B"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH021",
+              "NoiDung": "Năm 1925, Nguyễn Ái Quốc chưa thành lập một chính đảng vô sản ở Việt Nam vì lí do nào dưới đây?\r\n\r\nA. Chỉ thị của quốc tế cộng sản\r\n\r\nB. Công nhân chưa trưởng thành, chủ nghĩa Mác Lê nin chưa được truyền bá rộng rãi\r\n\r\nC. Lực lượng cách mạng chưa được tập hợp, giác ngộ đầy đủ\r\n\r\nD. Pháp tăng cường đàn áp phong trào cách mạng",
+              "DapAn": "B"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH023",
+              "NoiDung": "Tính đúng đắn và sáng tạo của Cương lĩnh chính trị đầu tiên (tháng 2-1930) của Đảng Cộng sản Việt Nam được thể hiện ở việc xác định\r\n\r\nA. Giai cấp lãnh đạo và lực lượng tham gia cách mạng.\r\n\r\nB. Lực lượng nòng cốt của cách mạng.\r\n\r\nC. Nhiệm vụ của cách mạng tư sản dân quyền.\r\n\r\nD. Mối quan hệ cách mạng Việt Nam và cách mạng thế giới.",
+              "DapAn": "C"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH024",
+              "NoiDung": "Cơ sở nào để Nguyễn Ái Quốc xác định cách mạng Việt Nam là một bộ phận khăng khít của cách mạng thế giới?\r\n\r\nA. Do chung một tổ chức lãnh đạo\r\n\r\nB. Do chung mục tiêu độc lập dân tộc\r\n\r\nC. Do chung lý tưởng chủ nghĩa xã hội\r\n\r\nD. Do chung kẻ thù là chủ nghĩa đế quốc",
+              "DapAn": "D"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH025",
+              "NoiDung": "Cương lĩnh chính trị đầu tiên của đảng Cộng sản Việt Nam đầu năm 1930 sáng tạo so với nguyên ý của chủ nghĩa Mác – Lê-nin ở việc xác định\r\n\r\nA. Lực lượng cách mạng.\r\n\r\nB. Phương hướng tiến lên.\r\n\r\nC. Phương pháp đấu tranh.\r\n\r\nD. Giai cấp lãnh đạo.",
+              "DapAn": "A"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH026",
+              "NoiDung": "Bài học chủ yếu nào có thể rút ra cho cách mạng Việt Nam từ sự chia rẽ của ba tổ chức cộng sản năm 1929?\r\n\r\nA. Xây dựng khối đoàn kết trong Đảng.\r\n\r\nB.  Thống nhất trong lực lượng lãnh đạo.\r\n\r\nC. Xây dựng khối liên minh công nông vững chắc.\r\n\r\nD.  Thống nhất về tư tưởng chính trị.",
+              "DapAn": "A"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH027",
+              "NoiDung": "Điểm sáng tạo nhất của Nguyễn Ái Quốc trong quá trình vận động thành lập Đảng Cộng sản Việt Nam là gì?\r\n\r\nA. Thành lập Tâm tâm xã.\r\n\r\nB. Thành lập Việt Nam Quốc dân đảng.\r\n\r\nC. Thành lập Cộng sản đoàn.\r\n\r\nD. Thành lập Hội Việt Nam Cách mạng Thanh niên.",
+              "DapAn": "D"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH028",
+              "NoiDung": "Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam đã kết hợp đúng đắn vấn đề\r\n\r\nA. Kinh tế và chính trị\r\n\r\nB. Dân tộc và quân chủ.\r\n\r\nC. Dân tộc và giai cấp.\r\n\r\nD. Phong kiến và tư sản.",
+              "DapAn": "C"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH029",
+              "NoiDung": "Lực lượng cách mạng chủ yếu được xác định trong Cương lĩnh chính trị đầu tiên của Đảng bao gồm\r\n\r\nA. Công nhân, nông dân, tiểu tư sản, trí thức.\r\n\r\nB. Công nhân, nông dân, trung và tiểu địa chủ.\r\n\r\nC. Công nhân, nông dân, tư sản dân tộc.\r\n\r\nD. Công nhân, nông dân, tư sản.",
+              "DapAn": "A"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH030",
+              "NoiDung": "Đảng Cộng sản Việt Nam ra đời là sự chuẩn bị tất yếu đầu tiên có tính chất quyết định vì\r\n\r\nA. Đã chấm dứt thời kỳ khủng hoảng về đường lối và giai cấp lãnh đạo.\r\n\r\nB. Đáp ứng căn bản nguyện vọng của các giai cấp trong xã hội.\r\n\r\nC. Lãnh đạo nhân dân tổng khởi nghĩa tháng 8 thành công.\r\n\r\nD. Đề ra đường lối chính trị đúng đắn và hệ thống tổ chức chặt chẽ.",
+              "DapAn": "A"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH033",
+              "NoiDung": "Tình hình nông nghiệp Việt Nam trong cuộc khủng hoảng kinh thế giới (1929 -1933) biểu hiện như thế nào?\r\n\r\nA. Giá nông phẩm giảm mạnh, ruộng đất bị bỏ hoang.\r\n\r\nB. Các đồn điền trồng lúa chuyển sang trồng cây công nghiệp.\r\n\r\nC. Tư bản Pháp đẩy mạnh hoạt động chiến đất của nhân dân.\r\n\r\nD. Diện tích trồng cây cao su tăng nhanh gấp 10 lần so với trước khủng hoảng.",
+              "DapAn": "A"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH034",
+              "NoiDung": "Cuộc khủng hoảng kinh tế (1929 – 1933) đã gây ra hậu quả gì đối với xã hội Việt Nam?\r\n\r\nA. Làm gia tăng các mâu thuẫn trong xã hội\r\n\r\nB. Làm trầm trọng thêm tình trạng đói khổ của các tầng lớp nhân dân lao động\r\n\r\nC. Thúc đẩy các phong trào đấu tranh của quần chúng phát triển\r\n\r\nD. Làm gia tăng các hoạt động khủng bố của thực dân Pháp",
+              "DapAn": "B"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH035",
+              "NoiDung": "Chính quyền cách mạng ra đời trong phong trào 1930 -1931 ở Nghệ An và Hà Tĩnh theo hình thức nào?\r\n\r\nA. Chính quyền công- nông- binh\r\n\r\nB. Chính quyền dân chủ tư sản\r\n\r\nC. Chính quyền Xô viết\r\n\r\nD. Chính quyền của dân, do dân, vì dân",
+              "DapAn": "C"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH036",
+              "NoiDung": "Hình thức mặt trận được thành lập trong phong trào 1930 - 1931 là\r\n\r\nA. Mặt trận dân chủ Đông Dương\r\n\r\nB. Mặt trận nhân dân phản đế Đông Dương\r\n\r\nC. Mặt trận dân tộc phản đế Đông Dương\r\n\r\nD. Chỉ có liên minh công - nông.",
+              "DapAn": "D"
+            },
+            "Traloi": "C"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH037",
+              "NoiDung": "Luận cương chính trị (10 - 1930) xác định hai nhiệm vụ chiến lược của cách mạng Đông Dương là\r\n\r\nA. Lật đổ ách thống trị của thực dân Pháp\r\n\r\nB. Lật đổ ách thống trị của chủ nghĩa đế quốc\r\n\r\nC. Đánh đổ đế quốc và phong kiến tay sai \r\n\r\nD. Đánh đổ phong kiến và đế quốc",
+              "DapAn": "D"
+            },
+            "Traloi": "D"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH038",
+              "NoiDung": "Đảng Cộng sản Việt Nam đổi tên thành Đảng Cộng sản Đông Dương khi nào?\r\n\r\nA. tháng 10 - 1930.\r\n\r\nB. tháng 4 - 1931.\r\n\r\nC. tháng 3 - 1935.\r\n\r\nD. tháng 7 - 1935.",
+              "DapAn": "A"
+            },
+            "Traloi": "B"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH039",
+              "NoiDung": "Chính sách nào sau đây của chính quyền Xô viết Nghệ - Tĩnh không được thực hiện trong thời gian tồn tại?\r\n\r\nA. Quần chúng được tự do tham gia các đoàn thể, tự do hội họp\r\n\r\nB. Chia lại ruộng công, xóa nợ cho người nghèo\r\n\r\nC. Mở lớp dạy chữ Quốc ngữ cho nhân dân\r\n\r\nD. Tiến hành bầu cử chính quyền các cấp",
+              "DapAn": "D"
+            },
+            "Traloi": "A"
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH040",
+              "NoiDung": "Nhận xét nào dưới đây về chính quyền Xô Viết Nghệ- Tĩnh là không đúng?\r\n\r\nA. Là nguồn cổ vũ mạnh mẽ phong trào quần chúng nhân dân trong cả nước\r\n\r\nB. Đây là hình thức nhà nước mới do giai cấp công nhân sáng lập ra\r\n\r\nC. Đã chứng tỏ bản chất cách mạng và tính ưu việt của chính quyền mới\r\n\r\nD. Đây thực sự là chính quyền cách mạng của dân, do dân và vì dân",
+              "DapAn": "B"
+            },
+            "Traloi": "C"
+          }
+        ],
+        "diem": 2.33333325,
+        "ThoiGianNop": "4/17/2024 6:27:03 PM"
+      }
+    ]
+  },
+  {
+    "MaDT": "DT004",
+    "TenMH": "Tin Học Đại Cương",
+    "ThoiGianLamBai": "10/05/2024",
+    "SoLuongCauHoi": 20,
+    "ThoiGianThi": 30,
+    "DanhSachCauHoi": [
+      "CH035",
+      "CH029",
+      "CH003",
+      "CH004",
+      "CH039",
+      "CH014",
+      "CH033",
+      "CH031",
+      "CH013",
+      "CH009",
+      "CH036",
+      "CH015",
+      "CH007",
+      "CH022",
+      "CH037",
+      "CH026",
+      "CH021",
+      "CH001",
+      "CH023",
+      "CH018"
+    ],
+    "DanhSachKetQua": []
+  },
+  {
+    "MaDT": "DT006",
+    "TenMH": "Tiếng Anh Căn Bản",
+    "ThoiGianLamBai": "19/05/2024",
+    "SoLuongCauHoi": 20,
+    "ThoiGianThi": 30,
+    "DanhSachCauHoi": [
+      "CH040",
+      "CH009",
+      "CH039",
+      "CH027",
+      "CH032",
+      "CH015",
+      "CH031",
+      "CH011",
+      "CH035",
+      "CH026",
+      "CH024",
+      "CH029",
+      "CH007",
+      "CH033",
+      "CH022",
+      "CH019",
+      "CH038",
+      "CH013",
+      "CH018",
+      "CH003"
+    ],
+    "DanhSachKetQua": [
+      {
+        "MaKQ": 2,
+        "MaSV": "SV003",
+        "Ketqua": [
+          {
+            "CauHoi": {
+              "MaCH": "CH003",
+              "NoiDung": "Sage Bistro\u0027s menu features a ____ variety of seafood items than Almaner Pavilion\u0027s \r\nA. wide \r\nB. widest \r\nC. wider \r\nD. widely",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH007",
+              "NoiDung": "Hoa: Where did you go during your summer vacation, Mai? Mai: _____________\r\nA. Yes, I went to Hanoi.\r\nB. No, I didn’t got to Hanoi.\r\nC. I went to Hue.\r\nD. I went there with my mother.",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH009",
+              "NoiDung": "The red jacket is _______ the blue jacket.\r\nA. expensiver than\r\nB. more expensive than\r\nC. the most expensive\r\nD. most expensive",
+              "DapAn": "B"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH011",
+              "NoiDung": "All students ____ wear uniforms at school because it is a rule.\r\n\r\nA. should    \r\nB. have to     \r\nC. ought to     \r\nD. must",
+              "DapAn": "B"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH013",
+              "NoiDung": "I haven\u0027t got enough money to buy a new car.\r\n\r\nA. I need more money to buy a new car.\r\n\r\nB. I don\u0027t want to spend more money on a new car.\r\n\r\nC. A new car is not something I really need.\r\n\r\nD. Money is not the most essential issue to buy a new car",
+              "DapAn": "A"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH015",
+              "NoiDung": "“I will come back home soon,” he said.\r\n\r\nA. He advised to come back home soon.\r\n\r\nB. He offered to come back home soon.\r\n\r\nC. He promised to come back home soon.\r\n\r\nD. He suggested that he should come back home soon.",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH018",
+              "NoiDung": "My friend suggested ____ on a yoga course to lose weight.\r\n\r\nA. enrolled     B. enroll     C. enrolling     D. to enroll",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH019",
+              "NoiDung": "Tom and Ken admitted ____ to submit the assignments the day before.\r\n\r\nA. to forget     B. forgetting     C. forget     D. forgot",
+              "DapAn": "B"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH022",
+              "NoiDung": "This is the right DVD, ____?\r\n\r\nA. isn\u0027t this     B. is this     C. isn\u0027t it    D. is it",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH024",
+              "NoiDung": "Let\u0027s go out tonight, ____?\r\n\r\nA. shall we     B. will we     C. could we     D. would we",
+              "DapAn": "A"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH026",
+              "NoiDung": "Nothing frightens you, ____?\r\n\r\nA. does it     B. doesn\u0027t it     C. do they     D. don\u0027t they",
+              "DapAn": "A"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH027",
+              "NoiDung": "Though built almost five hundred years ago, the church remained practically intact.\r\n\r\nA. in perfection    B. in ruins     C. in chaos     D. in completion",
+              "DapAn": "B"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH029",
+              "NoiDung": "The major stone sections of the Citadel of the Ho Dynasty remain intact thanks to the unique construction techniques.:\r\n\r\nA. special    B. common     C. excellent     D. ancient",
+              "DapAn": "B"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH031",
+              "NoiDung": "Visitors with more abundant travel budgets can enjoy the comfort of five-star hotels and luxury cruise ships.\r\n\r\nA. huge    B. plentiful     C. mean    D. tight",
+              "DapAn": "D"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH032",
+              "NoiDung": "You may choose one from the five World Heritage Sites in Viet Nam ____ in this leaflet to visit on your next field trip.\r\n\r\nA. includes     B. including    C. included     D. to include",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH033",
+              "NoiDung": "____ UNESCO criteria for outstanding universal value to humanity, Trang An Scenic Landscape Complex was added to the World Heritage List in 2014.\r\n\r\nA. Meeting    B. Met     C. To meet     D. Having met",
+              "DapAn": "D"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH035",
+              "NoiDung": "Scientists ____ on the site found many ancient tools, tombs and pottery, and made some important archaeological discoveries.\r\n\r\nA. worked     B. working    C. to work     D. to be working",
+              "DapAn": "B"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH038",
+              "NoiDung": "Hugh is quite worried because he hasn\u0027t ____ for the end-of-term test.\r\n\r\nA. examined    B. researched     C. studied     D. read",
+              "DapAn": "C"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH039",
+              "NoiDung": "Any pupil caught ____ was made to stand at the front of the class.\r\n\r\nA. misbehave     B. misbehaved     C. misbehaviour     D. misbehaving",
+              "DapAn": "D"
+            },
+            "Traloi": null
+          },
+          {
+            "CauHoi": {
+              "MaCH": "CH040",
+              "NoiDung": "They ____ sacrifices so that their only child could have a good education.\r\n\r\nA. made     B. did    C. provided    D. lent",
+              "DapAn": "A"
+            },
+            "Traloi": null
+          }
+        ],
+        "diem": 0,
+        "ThoiGianNop": "4/17/2024 6:25:48 PM"
+      }
+    ]
+  },
+  {
+    "MaDT": "DT005",
+    "TenMH": "Tiếng Anh Căn Bản",
+    "ThoiGianLamBai": "27/04/2024",
+    "SoLuongCauHoi": 30,
+    "ThoiGianThi": 45,
+    "DanhSachCauHoi": [
+      "CH027",
+      "CH025",
+      "CH003",
+      "CH016",
+      "CH034",
+      "CH017",
+      "CH009",
+      "CH036",
+      "CH008",
+      "CH033",
+      "CH013",
+      "CH037",
+      "CH028",
+      "CH040",
+      "CH024",
+      "CH026",
+      "CH007",
+      "CH019",
+      "CH021",
+      "CH018",
+      "CH022",
+      "CH010",
+      "CH012",
+      "CH002",
+      "CH020",
+      "CH032",
+      "CH011",
+      "CH030",
+      "CH035",
+      "CH004"
+    ],
+    "DanhSachKetQua": null
+  }
+]
